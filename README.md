@@ -1,4 +1,4 @@
-# vutify_exp
+# Vutify experiment
 
 ## Project setup
 ```
